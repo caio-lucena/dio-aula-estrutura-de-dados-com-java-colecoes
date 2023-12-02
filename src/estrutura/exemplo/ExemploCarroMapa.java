@@ -1,4 +1,4 @@
-package comparacao.exemplo;
+package estrutura.exemplo;
 
 import java.util.HashMap;
 import java.util.Map;

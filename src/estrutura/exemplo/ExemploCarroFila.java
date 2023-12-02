@@ -1,9 +1,9 @@
-package comparacao.exemplo;
+package estrutura.exemplo;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-import comparacao.modelo.Carro;
+import estrutura.modelo.Carro;
 
 public class ExemploCarroFila {
 

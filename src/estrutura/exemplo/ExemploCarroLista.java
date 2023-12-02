@@ -1,9 +1,9 @@
-package comparacao.exemplo;
+package estrutura.exemplo;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import comparacao.modelo.Carro;
+import estrutura.modelo.Carro;
 
 public class ExemploCarroLista {
 

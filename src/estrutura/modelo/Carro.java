@@ -1,4 +1,4 @@
-package comparacao.modelo;
+package estrutura.modelo;
 
 import java.util.Objects;
 

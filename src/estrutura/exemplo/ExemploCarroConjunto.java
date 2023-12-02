@@ -1,10 +1,10 @@
-package comparacao.exemplo;
+package estrutura.exemplo;
 
 import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-import comparacao.modelo.Carro;
+import estrutura.modelo.Carro;
 
 public class ExemploCarroConjunto {
 

@@ -1,8 +1,8 @@
-package comparacao.exemplo;
+package estrutura.exemplo;
 
 import java.util.Stack;
 
-import comparacao.modelo.Carro;
+import estrutura.modelo.Carro;
 
 public class ExemploCarroPilha {
 
